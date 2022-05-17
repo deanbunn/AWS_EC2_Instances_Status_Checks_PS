@@ -20,7 +20,7 @@ $Env:PSModulePath
 Check Version of AWS PowerShell Module
 ```powershell
 # Check AWS PowerShell Version
-Get-AWSPowerShellVerion
+Get-AWSPowerShellVersion
 ```
 
 Configure the AWS credentials
@@ -32,7 +32,7 @@ Set-AWSCredential -AccessKey NnNnNnNn -SecretKey NnNnNnNn -StoreAs default
 Check AWS credentials
 ```powershell
 # Check credentials
-Get-AWSCredential-ListProfileDetail
+Get-AWSCredential -ListProfileDetail
 ```
 
 
