@@ -2,7 +2,7 @@
 
 A quick PowerShell script to check the status of AWS EC2 instances. 
 
-### Scenario:
+### Scenario
 
 You have an EC2 instances that need to start once a day and perform some data processing tasks and then shutdown.
 
